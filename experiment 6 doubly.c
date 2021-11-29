@@ -1,3 +1,6 @@
+//SYIT_A_29_KUNAL AJAY KAPURE
+//1.Implementation of Stack using Array for real-world application.
+#include <stdio.h>
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
